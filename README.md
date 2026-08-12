@@ -46,37 +46,20 @@ Screenshot
 
 Paste Screenshot Here
 ---------------------------------------------------------
-|                                                       |
-|       Screenshot - Execute Permission                 |
-|                                                       |
+<img width="1030" height="158" alt="image" src="https://github.com/user-attachments/assets/9bad4c87-35f6-46ea-ad9a-42d2ff1a314f" />
+
 ---------------------------------------------------------
 
 
-
-Step 2 - Execute Script
-
-./templateEngine.sh trainer.template fname=Sandeep topic=Linux
-Screenshot
-
-Paste Screenshot Here
----------------------------------------------------------
-|                                                       |
-|       Screenshot - Running Script                     |
-|                                                       |
----------------------------------------------------------
-
-
-
-Step 3 - Output
+Step 2 - Output
 
 Sandeep is trainer of Linux
 Screenshot
 
 Paste Screenshot Here
 ---------------------------------------------------------
-|                                                       |
-|       Screenshot - Output                             |
-|                                                       |
+<img width="1406" height="208" alt="image" src="https://github.com/user-attachments/assets/a7659e1c-8941-4e89-a79e-9147bf253d2e" />
+
 ---------------------------------------------------------
 
 
@@ -129,9 +112,8 @@ Screenshot
 
 Paste Screenshot Here
 ---------------------------------------------------------
-|                                                       |
-|       Screenshot - Execute Permission                 |
-|                                                       |
+<img width="1030" height="158" alt="image" src="https://github.com/user-attachments/assets/9041f600-706c-4bdd-a4e8-b71a45ccdfc5" />
+
 ---------------------------------------------------------
 
 
@@ -224,7 +206,8 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-<img width="960" height="370" alt="image" src="https://github.com/user-attachments/assets/61bef7b7-5ee0-442a-b341-08d2b808ce56" />
+
+<img width="1920" height="714" alt="image" src="https://github.com/user-attachments/assets/fded86b3-fba3-4503-ab2d-aee6c103ca50" />
 
 ---------------------------------------------------------
 
@@ -238,8 +221,7 @@ Output Screenshot
 
 ---------------------------------------------------------
 
-<img width="960" height="771" alt="image" src="https://github.com/user-attachments/assets/df7780b2-0a13-4791-aac5-e532bcc80808" />
-
+<img width="1920" height="784" alt="image" src="https://github.com/user-attachments/assets/6f442126-001e-4487-9ae2-d9cf8521c395" />
 
 ---------------------------------------------------------
 
