@@ -1,7 +1,4 @@
 Assignment 5 - Bash Scripting
-Name: Shristy Mukherjee
-
-
 
 Table of Contents
 
@@ -146,10 +143,10 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
- <img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/ce47b053-e6c2-48e4-a0c3-a102969fc01b" /> |
+                                                      
+ <img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/ce47b053-e6c2-48e4-a0c3-a102969fc01b" /> 
                    
-|                                                       |
+                                                       
 ---------------------------------------------------------
 
 
@@ -161,9 +158,8 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|    Screenshot - addLineBottom Output                  |
-|                                                       |
+<img width="960" height="376" alt="image" src="https://github.com/user-attachments/assets/28852518-cd79-455a-8810-ffe079b7a0cb" />
+
 ---------------------------------------------------------
 
 
@@ -175,9 +171,8 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|      Screenshot - addLineAt Output                    |
-|                                                       |
+<img width="960" height="472" alt="image" src="https://github.com/user-attachments/assets/af183cd3-93d0-4c2d-bbc4-447cf2bbef89" />
+
 ---------------------------------------------------------
 
 
@@ -189,9 +184,8 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|    Screenshot - updateFirstWord Output                |
-|                                                       |
+<img width="960" height="482" alt="image" src="https://github.com/user-attachments/assets/038a17f4-be6b-4b7a-9d05-8b1d5ff6e515" />
+
 ---------------------------------------------------------
 
 
@@ -203,9 +197,8 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|     Screenshot - updateAllWords Output                |
-|                                                       |
+<img width="960" height="469" alt="image" src="https://github.com/user-attachments/assets/6aaba7d2-4661-43c9-be66-43074e753576" />
+
 ---------------------------------------------------------
 
 
@@ -217,9 +210,9 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|       Screenshot - insertWord Output                  |
-|                                                       |
+
+
+
 ---------------------------------------------------------
 
 
@@ -231,9 +224,8 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|      Screenshot - deleteLine Output                   |
-|                                                       |
+<img width="960" height="370" alt="image" src="https://github.com/user-attachments/assets/61bef7b7-5ee0-442a-b341-08d2b808ce56" />
+
 ---------------------------------------------------------
 
 
@@ -245,9 +237,10 @@ Command
 Output Screenshot
 
 ---------------------------------------------------------
-|                                                       |
-|    Screenshot - delete Word Output                    |
-|                                                       |
+
+
+
+
 ---------------------------------------------------------
 
 
