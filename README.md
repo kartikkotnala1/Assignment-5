@@ -44,7 +44,7 @@ Step 1 - Give Execute Permission
 chmod +x templateEngine.sh
 Screenshot
 
-Paste Screenshot Here
+
 ---------------------------------------------------------
 <img width="1030" height="158" alt="image" src="https://github.com/user-attachments/assets/9bad4c87-35f6-46ea-ad9a-42d2ff1a314f" />
 
@@ -56,7 +56,7 @@ Step 2 - Output
 Sandeep is trainer of Linux
 Screenshot
 
-Paste Screenshot Here
+
 ---------------------------------------------------------
 <img width="1406" height="208" alt="image" src="https://github.com/user-attachments/assets/a7659e1c-8941-4e89-a79e-9147bf253d2e" />
 
